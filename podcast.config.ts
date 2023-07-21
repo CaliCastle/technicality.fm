@@ -1,28 +1,18 @@
 import { cache } from 'react'
 import { parse } from 'rss-to-json'
 
-/**
- * TODO: Add your podcast config here
- */
 export const podcastConfig: PodcastConfig = {
-  /**
-   * Step 1. Add your podcast directories here
-   * We support links from:
-   *   Apple Podcasts, Google Podcasts, Spotify, Stitcher, Overcast,
-   *   Pocket Casts Castro, 小宇宙, 哔哩哔哩, YouTube
-   */
   directories: [
-    'https://podcasts.apple.com/us/podcast/lex-fridman-podcast/id1434243584',
-    'https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL',
-    'https://www.youtube.com/lexfridman',
+    'https://podcasts.apple.com/us/podcast/technicality/id1644743520',
+    'https://open.spotify.com/show/4B0ICTKYqQe14UosFxthQv',
+    'https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXN0b3MuY29tL3ZkcHg0',
+    'https://www.youtube.com/calicastle',
+    'https://space.bilibili.com/8350251',
   ],
-  /**
-   * Step 2. Add your podcast hosts here
-   */
   hosts: [
     {
-      name: 'Lex Fridman',
-      link: 'https://lexfridman.com/',
+      name: 'Cali Castle',
+      link: 'https://cali.so/',
     },
   ],
 }
