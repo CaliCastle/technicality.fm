@@ -1,0 +1,35 @@
+{
+  "Languages": {
+    "placeholder": "Select a language",
+    "en": "English",
+    "zh-CN": "简体中文"
+  },
+  "Layout": {
+    "about": "About",
+    "show_more": "Show more",
+    "listen": "Listen",
+    "homepage": "Homepage",
+    "hosted_by": "Hosted by"
+  },
+  "IndexPage": {
+    "episodes": "Episodes",
+    "listen": "Listen",
+    "show_notes": "Show notes",
+    "show_notes_aria_label": "Show notes for episode {episode}",
+    "play_episode": "Play episode {episode}",
+    "pause_episode": "Pause episode {episode}"
+  },
+  "EpisodePage": {
+    "other_episodes": "Other episodes"
+  },
+  "AudioPlayer": {
+    "current_time": "Current time",
+    "play": "Play",
+    "pause": "Pause",
+    "rewind": "Rewind {s, plural, =1 {1 second} other {# seconds}}",
+    "fast_forward": "Fast forward {s, plural, =1 {1 second} other {# seconds}}",
+    "mute": "Mute",
+    "unmute": "Unmute",
+    "playback_rate": "Playback rate"
+  }
+}
