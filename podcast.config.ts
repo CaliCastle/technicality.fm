@@ -5,9 +5,11 @@ export const podcastConfig: PodcastConfig = {
   directories: [
     'https://podcasts.apple.com/us/podcast/technicality/id1644743520',
     'https://open.spotify.com/show/4B0ICTKYqQe14UosFxthQv',
+    'https://www.xiaoyuzhoufm.com/podcast/631f66db90e867995c093861',
     'https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXN0b3MuY29tL3ZkcHg0',
     'https://www.youtube.com/calicastle',
     'https://space.bilibili.com/8350251',
+    'https://pca.st/xhi3h64g',
   ],
   hosts: [
     {
